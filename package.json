@@ -1,0 +1,28 @@
+{
+  "name": "random-msg-mensaje-random",
+  "version": "1.0.0",
+  "description": "random de mensajes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romenter/curso-npm-platzi-practica.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Romen, Ter Gazarian <romen.tergazarian@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg-mensaje-random": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "bugs": {
+    "url": "https://github.com/romenter/curso-npm-platzi-practica/issues"
+  },
+  "homepage": "https://github.com/romenter/curso-npm-platzi-practica#readme"
+}
